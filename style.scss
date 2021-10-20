@@ -1,0 +1,9 @@
+h1 {
+  color: rgb(59, 150, 230);
+}
+
+.container {
+  &__1 {
+    background-color: blue;
+  }
+}
